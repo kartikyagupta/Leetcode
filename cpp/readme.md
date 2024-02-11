@@ -2,4 +2,4 @@
   <img src="https://github.com/isocpp/logos/raw/master/cpp_logo.png" alt="C++ Logo" width="200"/>
 </div>
 
-Solutions for the Leetcode [Programming Skills](https://leetcode.com/studyplan/programming-skills/) 
+Solutions for various Leetcode challenges.
